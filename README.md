@@ -5,7 +5,7 @@ Saya Julian Dwi Satrio dengan NIM 2300484 mengerjakan Tugas Praktikum 3 dalam ma
 
 ## 🚗 Program Simulasi Kendaraan dengan OOP
 
-## 📌 Deskripsi Proyek
+## Deskripsi📌 
 Program ini merupakan implementasi konsep Object-Oriented Programming (OOP) dalam bahasa C++, Python, dan Java untuk mensimulasikan berbagai jenis kendaraan, khususnya mobil berbahan bakar minyak (BBM) dan mobil listrik. Program ini menerapkan implementasi OOP yaitu Inheritance dengan Hierarchical Inheritance (awalnya mau hybrid inheritance dengan bikin class mobil hybrid yang mewarisi class mobil bbm dan mobil listrik tapi gakeburu hehe) lalu menerapkan juga konsep OOP Composition dengan penggunaan class lain sebagai atribut dan List/Array Object.
 
 ## 🛠️ Desain Program
