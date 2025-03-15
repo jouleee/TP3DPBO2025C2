@@ -40,6 +40,7 @@ Program ini terdiri dari beberapa kelas utama:
 3. **Menampilkan informasi kendaraan** ke layar dalam format yang rapi.
 
 Contoh output:
+
 !Untuk Dokumentasi Program berjalan bisa dibuka di directory setiap bahasa pemrograman^^
 ```
 ==============================================
